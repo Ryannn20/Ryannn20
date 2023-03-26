@@ -4,7 +4,7 @@ My name's Ryan and I'm a computer science student from CA
 
 👀 I’m interested in 
 
-• Web Development
+• Back-End Development
 • Software Engineering
 
 
