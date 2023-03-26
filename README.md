@@ -1,6 +1,6 @@
 Hello there 👋
 
-My name's Ryan and I'm a computer science student from CA
+My name's Ryan and I'm a Computer Science student from CA
 
 👀 I’m interested in 
 
